@@ -1,2 +1,3 @@
-# playtest
-All current play tests for this studio
+# Playtest
+
+A private test page. It needs a password.
